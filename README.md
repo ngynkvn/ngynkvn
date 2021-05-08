@@ -2,6 +2,12 @@
 
 This is my personal workspace for random projects.
 
+- 🔭 I’m currently working on an emulator and some hardware projects
+- 🌱 I’m currently learning Rust, Go, TypeScript
+- 👯 I’m looking to collaborate on ... anything
+
+### Anurag's Github Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngynkvn)](https://github.com/anuraghazra/github-readme-stats)
 
 
