@@ -2,9 +2,8 @@
 
 This is my personal workspace for random projects.
 
-- 🔭 I’m currently working on an emulator and some hardware projects
-- 🌱 I’m currently learning Rust, Go, TypeScript
-- 👯 I’m looking to collaborate on ... anything
+- 🔭 I’m interested in 3D graphics, statistical modeling and woodworking
+- 🌱 I’m currently learning 3D Printing, CAD Modeling, Vue.js
 
 ### Anurag's Github Stats
 
