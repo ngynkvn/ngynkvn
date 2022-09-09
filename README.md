@@ -4,7 +4,7 @@ This is my personal workspace for random projects.
 
 - 🔭 I’m interested in 3D graphics, statistical modeling and woodworking
 - 🌱 I’m currently learning 3D Printing, CAD Modeling, Vue.js
-- ⚡ I'm currently looking for software project ideas
+- ⚡ I'm playing [battlesnakes](https://play.battlesnake.com/u/ngynkvn/#battlesnakes)!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngynkvn)](https://github.com/anuraghazra/github-readme-stats)
 
