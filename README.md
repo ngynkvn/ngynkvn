@@ -2,6 +2,8 @@
 
 This is my personal workspace for random projects.
 
+I started tagging my repos with where I was at in my life when I was working on them. The plan is to collect everything into a timeline here!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngynkvn&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
